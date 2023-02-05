@@ -12,6 +12,9 @@ body {
 	background: #000000;
 	font-family: 'Titillium Web', cursive;
 	font-weight: 100;
+	-webkit-tap-highlight-color: transparent;
+  	-webkit-user-select: none;
+  	user-select: none;
 }
 
 .ie body {
